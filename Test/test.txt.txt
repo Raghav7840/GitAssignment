@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello there how are you.
+=======
+Hello this is Raghav babal from digikull.
+Have a great day.
+>>>>>>> e5bf62647c17bbe765fba16b4aa2bfa9c7993812
